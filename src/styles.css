@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("./assets/image.jfif");
+    background-size: cover;
+    box-sizing: border-box;
+    background-position: top;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
